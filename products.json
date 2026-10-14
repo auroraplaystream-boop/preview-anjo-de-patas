@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Ração Special Dog 15 kg",
+    "price": "109,90",
+    "cat": "Cães",
+    "id": "MAGzzIM1ob8",
+    "image": "assets/e20a07cb844ebf39474411b44eafe724.png"
+  },
+  {
+    "name": "Ração Super Dog 15 kg",
+    "price": "79,90",
+    "cat": "Cães",
+    "id": "MAGzzDRv0iA",
+    "image": "assets/5d0c5580bd2bb239f683aa6aa29966f1.png"
+  },
+  {
+    "name": "Ração X Treme Adulto 15 kg",
+    "price": "169,90",
+    "cat": "Cães",
+    "id": "MAGzzYukXxA",
+    "image": "assets/1a35d0c72dd6c023d37cb42a3fd7a1e6.png"
+  },
+  {
+    "name": "Ração Super Dog 25 kg",
+    "price": "129,90",
+    "cat": "Cães",
+    "id": "MAGzzDRv0iA",
+    "image": "assets/5d0c5580bd2bb239f683aa6aa29966f1.png"
+  },
+  {
+    "name": "Ração Special Dog 10 kg",
+    "price": "89,90",
+    "cat": "Cães",
+    "id": "MAGzzIM1ob8",
+    "image": "assets/e20a07cb844ebf39474411b44eafe724.png"
+  },
+  {
+    "name": "Ração Super Dog 7 kg",
+    "price": "38,90",
+    "cat": "Cães",
+    "id": "MAGzzDRv0iA",
+    "image": "assets/5d0c5580bd2bb239f683aa6aa29966f1.png"
+  },
+  {
+    "name": "Ração Special Dog 20 kg",
+    "price": "149,90",
+    "cat": "Cães",
+    "id": "MAGzzIM1ob8",
+    "image": "assets/e20a07cb844ebf39474411b44eafe724.png"
+  },
+  {
+    "name": "Ração Utter 15 kg",
+    "price": "59,90",
+    "cat": "Cães",
+    "id": "MAHSvPOsRn8",
+    "image": "assets/41d4646f767701fdfce493315a4d53fd.png"
+  },
+  {
+    "name": "Ração Utter 7 kg",
+    "price": "29,90",
+    "cat": "Cães",
+    "id": "MAHSvPOsRn8",
+    "image": "assets/41d4646f767701fdfce493315a4d53fd.png"
+  },
+  {
+    "name": "Ração Lob Dog 25 kg",
+    "price": "89,90",
+    "cat": "Cães",
+    "id": "MAHSvPOsRn8",
+    "image": "assets/41d4646f767701fdfce493315a4d53fd.png"
+  },
+  {
+    "name": "Ração Friskies mix de Carne Castrados 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzniB2vk",
+    "image": "assets/11d8ba7fed55e93c3288975ca4204d10.png"
+  },
+  {
+    "name": "Ração Golden Gatos castrados Salmão 3 kg",
+    "price": "76,90",
+    "cat": "Gatos",
+    "id": "MAGzzaLDqOM",
+    "image": "assets/b7be348d442d8e8b74b0d601163717de.png"
+  },
+  {
+    "name": "Ração Golden Gatos castrados Carne 3 kg",
+    "price": "75,90",
+    "cat": "Gatos",
+    "id": "MAGzzTRfJWc",
+    "image": "assets/98f5ca3e0fdef2bcb4c7752206446bee.png"
+  },
+  {
+    "name": "Ração Friskies Frango 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzT98a8Y",
+    "image": "assets/c075a408c6b304c139fa4615fa0b697f.png"
+  },
+  {
+    "name": "Ração Friskies mix de Carne 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzm2eXZ4",
+    "image": "assets/9563cc8a164c39b1743d6a2f01e89dbd.png"
+  },
+  {
+    "name": "Ração Golden Gatos castrados Frango 3 kg",
+    "price": "75,90",
+    "cat": "Gatos",
+    "id": "MAGzzfvAg4o",
+    "image": "assets/a58cb360b9929a8520445c3b447930b2.png"
+  },
+  {
+    "name": "Ração Golden Gatos Filhotes Frango 3 kg",
+    "price": "71,90",
+    "cat": "Gatos",
+    "id": "MAGzzTqaka4",
+    "image": "assets/a043306614c2b2b96dbd14bfe744c427.png"
+  },
+  {
+    "name": "Ração Friskies Megamix Castrados 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzilAB9I",
+    "image": "assets/edff46d762858bd6167046a02856b676.png"
+  },
+  {
+    "name": "Ração Friskies Megamix 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzscb_Jk",
+    "image": "assets/af4c26706d7d42519a11408a9d427f74.png"
+  },
+  {
+    "name": "Ração X Treme Filhote 15kg",
+    "price": "179,90",
+    "cat": "Cães",
+    "id": "MAGzzVpHZQ0",
+    "image": "assets/56c712b2c1b5c9adc1fff94e668d5111.png"
+  },
+  {
+    "name": "Ração Premier dermacare cão 2,5 kg",
+    "price": "102,90",
+    "cat": "Cuidados",
+    "id": "MAGzznWX4Jg",
+    "image": "assets/35e5792313a632f6fbce439b13b225c8.png"
+  },
+  {
+    "name": "Ração Premier cão Obesidade 2 kg",
+    "price": "99,90",
+    "cat": "Cuidados",
+    "id": "MAGzznVa-jk",
+    "image": "assets/264e0d0bbd1ff721b697d6168aca683d.png"
+  },
+  {
+    "name": "Premier sênior cão 2,5 kg",
+    "price": "98,90",
+    "cat": "Cães",
+    "id": "MAGzzuPrcNU",
+    "image": "assets/43402375bb40de88360db73f54d94eec.png"
+  },
+  {
+    "name": "Ração Premier Gato Renal 1,5 kg",
+    "price": "104,90",
+    "cat": "Cuidados",
+    "id": "MAGzzoM5zFY",
+    "image": "assets/5fa987c3cbd117828b0482abfacc775d.png"
+  },
+  {
+    "name": "Ração Bionatural gato Castrados Salmão 1,5 kg",
+    "price": "79,90",
+    "cat": "Gatos",
+    "id": "MAGzzimgIjg",
+    "image": "assets/3ded2e70c94941d2a1b5cf3546cf453e.png"
+  },
+  {
+    "name": "Ração Premier cão hipoalergenica Cordeiro e arroz 2 kg",
+    "price": "99,90",
+    "cat": "Cuidados",
+    "id": "MAGzzvtmwOI",
+    "image": "assets/c6b733d38db01e6235b167340b7ddc06.png"
+  },
+  {
+    "name": "Premier cão hipoalergenica proteina hidrolisada 2 kg",
+    "price": "99,90",
+    "cat": "Cuidados",
+    "id": "MAGzzo2sXac",
+    "image": "assets/01f451a031f06b3be233dccf62082461.png"
+  },
+  {
+    "name": "Ração Friskies Peixe 3 kg",
+    "price": "59,90",
+    "cat": "Gatos",
+    "id": "MAGzzvTvBzo",
+    "image": "assets/bb994415a80179cab13a13cf124b8628.png"
+  },
+  {
+    "name": "Ração Friskies Filhote 1 kg",
+    "price": "26,90",
+    "cat": "Gatos",
+    "id": "MAGzzl5GCjk",
+    "image": "assets/6b439b116a721b643f167def047c0ef7.png"
+  },
+  {
+    "name": "Ração Premier Gato Urinário 1,5 kg",
+    "price": "104,90",
+    "cat": "Cuidados",
+    "id": "MAGzzqR2R_M",
+    "image": "assets/c6264d7bd9f312f7dadea77e107e1093.png"
+  },
+  {
+    "name": "Sachês friskies Sabores",
+    "price": "2,99",
+    "cat": "Petiscos",
+    "id": "MAGyexHYPaI",
+    "image": "assets/1e13de272473eac1cd9ec9253ba17f11.png"
+  },
+  {
+    "name": "Sachês DogChow Sabores",
+    "price": "2,99",
+    "cat": "Petiscos",
+    "id": "MAGzzz1-ssg",
+    "image": "assets/fd8f5840bb1d9aab196ad873ea57545e.png"
+  },
+  {
+    "name": "Ração Golden cão senior 3 kg",
+    "price": "59,90",
+    "cat": "Cães",
+    "id": "MAGzzqkFp4k",
+    "image": "assets/c2df28eecaef62f7691a73a57035e577.png"
+  },
+  {
+    "name": "Ração Golden light cão 3 kg",
+    "price": "62,90",
+    "cat": "Cães",
+    "id": "MAGzztDmcbc",
+    "image": "assets/3795035174b1ee9af09b13cabe95c8af.png"
+  },
+  {
+    "name": "Sachês GoldeN Gourmet - Sabores",
+    "price": "3,19",
+    "cat": "Petiscos",
+    "id": "MAGzzxBHeF0",
+    "image": "assets/b6454c0a094c4429441fe77be9d55808.png"
+  },
+  {
+    "name": "Areia silica grossa 1,6 kg",
+    "price": "39,90",
+    "cat": "Higiene",
+    "id": "MAGzzyDm7UM",
+    "image": "assets/3cf5cae1f4df52380ff7fef4eb01b444.png"
+  },
+  {
+    "name": "Granulado para gato Purple Moon lavanda 4 kg",
+    "price": "34,90",
+    "cat": "Higiene",
+    "id": "MAGzz_hoW5U",
+    "image": "assets/b721edc0defb55d1dfc9e7ce9654066b.png"
+  },
+  {
+    "name": "Areia de mandioca Finotrato Bio-Litter 10 kg",
+    "price": "109,90",
+    "cat": "Higiene",
+    "id": "MAGzz0-iwOc",
+    "image": "assets/2884eea4ca33242c6c2a41b8ef39720d.png"
+  },
+  {
+    "name": "Areia de mandioca Finotrato Bio-Litter 2kg",
+    "price": "29,90",
+    "cat": "Higiene",
+    "id": "MAGzz0-iwOc",
+    "image": "assets/2884eea4ca33242c6c2a41b8ef39720d.png"
+  },
+  {
+    "name": "Areia sílica fina 1,6 kg",
+    "price": "39,90",
+    "cat": "Higiene",
+    "id": "MAGzz2dHUOE",
+    "image": "assets/8163ae5ec12499948767781695ad7c48.png"
+  },
+  {
+    "name": "Areia Pipicat Multicat 12 kg",
+    "price": "54,90",
+    "cat": "Higiene",
+    "id": "MAGzzyih24w",
+    "image": "assets/01a783ec2745a49a93325aff4ca1bdcd.png"
+  },
+  {
+    "name": "Areia Pipicat Classic 12 kg",
+    "price": "42,90",
+    "cat": "Higiene",
+    "id": "MAGzz9clmHE",
+    "image": "assets/c0441a9c10f7dcc821cc7e362b3e7222.png"
+  },
+  {
+    "name": "Areia biodegradável milho e mandioca grossa 3,8 kg",
+    "price": "62,90",
+    "cat": "Higiene",
+    "id": "MAGzz4tWM_w",
+    "image": "assets/157f7e47a43589106f4f19f949616292.png"
+  },
+  {
+    "name": "Areia biodegradável milho e mandioca fina 3,8 kg",
+    "price": "62,90",
+    "cat": "Higiene",
+    "id": "MAGzz1OFDy8",
+    "image": "assets/e3f8e60c0bfd3b0ef849b15810b34101.png"
+  },
+  {
+    "name": "Areia Pipicat Classic 4 kg",
+    "price": "15,90",
+    "cat": "Higiene",
+    "id": "MAGzz9clmHE",
+    "image": "assets/c0441a9c10f7dcc821cc7e362b3e7222.png"
+  },
+  {
+    "name": "Areia Pipicat Floral 4 kg",
+    "price": "24,90",
+    "cat": "Higiene",
+    "id": "MAGzz4bhATI",
+    "image": "assets/d7d4272ef766c6ca0692c622bd2a1186.png"
+  },
+  {
+    "name": "Areia Pipicat Floral 12 kg",
+    "price": "66,90",
+    "cat": "Higiene",
+    "id": "MAGzz4bhATI",
+    "image": "assets/d7d4272ef766c6ca0692c622bd2a1186.png"
+  },
+  {
+    "name": "Areia pedra bianco pipicat 1,8 kg",
+    "price": "19,90",
+    "cat": "Higiene",
+    "id": "MAGzzyNoSyg",
+    "image": "assets/92c996dd6a67633f71a2b035e2a50111.png"
+  },
+  {
+    "name": "Bifinho Special Dog frango 400 g",
+    "price": "32,90",
+    "cat": "Petiscos",
+    "id": "MAGzPLbIyKw",
+    "image": "assets/bfb0ebe127878538feecfbafac8cdc04.png"
+  },
+  {
+    "name": "Bifinho Special dog carne 400 g",
+    "price": "32,90",
+    "cat": "Petiscos",
+    "id": "MAGzPABPSTQ",
+    "image": "assets/995df6626913bd012bb3c3f5b29caa34.png"
+  },
+  {
+    "name": "Biscoitos Dog Chow raças pequenas 500 g",
+    "price": "22,90",
+    "cat": "Petiscos",
+    "id": "MAGzzwTu3ro",
+    "image": "assets/8dc9de5a021dceb330860847b604d52e.png"
+  },
+  {
+    "name": "Areia Gatissimo 12 kg",
+    "price": "39,90",
+    "cat": "Higiene",
+    "id": "MAGzz9ggM4o",
+    "image": "assets/f15aa825c0b626698175bab2f0e45e08.png"
+  },
+  {
+    "name": "Areia Edukat 4 kg",
+    "price": "9,90",
+    "cat": "Higiene",
+    "id": "MAGzz-1Mu3o",
+    "image": "assets/4d75cacb85c3463c9c1ade00ba59f1a5.png"
+  },
+  {
+    "name": "Areia Gatissimo 4 kg",
+    "price": "14,90",
+    "cat": "Higiene",
+    "id": "MAGzz80gfoo",
+    "image": "assets/e5bf6feda00eab4a0cdfd8dc2151dac6.png"
+  },
+  {
+    "name": "Tapete higiênico slim ultra secao com Carvão ativado 30 unidades 60x60",
+    "price": "89,90",
+    "cat": "Higiene",
+    "id": "MAGz0I9a8Gs",
+    "image": "assets/8ac61bc4ab322256740dd01bd1ecc870.png"
+  },
+  {
+    "name": "Biscoitos Dog Chow filhote 300 g",
+    "price": "21,90",
+    "cat": "Petiscos",
+    "id": "MAGzz_i7Xtw",
+    "image": "assets/8854de3a64585d889909dd5b1b6e8d58.png"
+  },
+  {
+    "name": "Osso palito 1 kg 5x8",
+    "price": "28,90",
+    "cat": "Petiscos",
+    "id": "MAGz0FY5lAs",
+    "image": "assets/dbb010b6700da0786660f5063a29593a.png"
+  },
+  {
+    "name": "Osso palito defumado 1 kg 5x8",
+    "price": "29,90",
+    "cat": "Petiscos",
+    "id": "MAGz0PRdWb4",
+    "image": "assets/4ae63a7a4be2b12faec24ebd9c6ffcc3.png"
+  },
+  {
+    "name": "Rasqueadeira Automática",
+    "price": "29,90",
+    "cat": "Acessórios",
+    "id": "MAGz0J_UtAY",
+    "image": "assets/8c2e18a678103d2d17babe99e2435f2e.png"
+  },
+  {
+    "name": "Pá coletora de areia para gato em Alumínio",
+    "price": "34,90",
+    "cat": "Higiene",
+    "id": "MAGz0AdYpAY",
+    "image": "assets/a83384777e5101dde4da44452fab6063.png"
+  },
+  {
+    "name": "Tapete higiênico pinicao com 30 unidades 60x60",
+    "price": "79,90",
+    "cat": "Higiene",
+    "id": "MAGz0NkEPxM",
+    "image": "assets/d0693594ff3ead8b8786a34de5faa4a0.png"
+  },
+  {
+    "name": "Tapete higiênico pinicao com 14 unidades 60x60",
+    "price": "36,90",
+    "cat": "Higiene",
+    "id": "MAGz0AOzaws",
+    "image": "assets/ec98aa683cf987048363edd10e376047.png"
+  },
+  {
+    "name": "Tapete higiênico pinicao com 7 unidades 60x60",
+    "price": "19,90",
+    "cat": "Higiene",
+    "id": "MAGz0HJGwbA",
+    "image": "assets/b9d6185b0616535a0111d741de3070c5.png"
+  },
+  {
+    "name": "Tapete higiênico slim com 7 unidades 60x60",
+    "price": "16,90",
+    "cat": "Higiene",
+    "id": "MAGz0AhpSFA",
+    "image": "assets/ab17e55f6ed667b3038001e9f1a89eab.png"
+  },
+  {
+    "name": "Tapete higiênico slim goodpad com 30 unidades 60x60",
+    "price": "59,90",
+    "cat": "Higiene",
+    "id": "MAGz0NFDyjQ",
+    "image": "assets/e3ac0dd4f6556dbc3a2a22fb81553b0a.png"
+  },
+  {
+    "name": "Tapete higiênico slim ultra secao 30 unidades 60x60",
+    "price": "82,90",
+    "cat": "Higiene",
+    "id": "MAGz0I8eelw",
+    "image": "assets/b40994f2ecf954f498a2aded541c9afd.png"
+  },
+  {
+    "name": "Tapete higiênico slim com Carvão ativado X Dry bamboo com 30 unidades 80x60",
+    "price": "132,90",
+    "cat": "Higiene",
+    "id": "MAGz0NIYubs",
+    "image": "assets/8ea5420717cc34644653c523e34f1f26.png"
+  },
+  {
+    "name": "Tapete higiênico pe de cão com 10 unidades 80x60",
+    "price": "32,90",
+    "cat": "Higiene",
+    "id": "MAGz0FAkSHc",
+    "image": "assets/77fd498bbf0d8e4f56e98fe83717bb1f.png"
+  },
+  {
+    "name": "Tapete pe de cão com 30 unidades 80x60",
+    "price": "89,90",
+    "cat": "Higiene",
+    "id": "MAHGTLQGOpY",
+    "image": "assets/3ca7f9fe7d0e6b4d936e3aea09f2936c.png"
+  },
+  {
+    "name": "Tapete higiênico pe de cão com Carvão ativado 30 unidades 80x60",
+    "price": "99,90",
+    "cat": "Higiene",
+    "id": "MAGz0MtxUno",
+    "image": "assets/f934400df71ef51890b9e3a90eb14737.png"
+  },
+  {
+    "name": "Linha Completa de Simparic",
+    "price": null,
+    "cat": "Cuidados",
+    "id": "MAHSwurW6C0",
+    "image": "assets/23b9a24a667222c2b8461fef82a80ec4.png"
+  },
+  {
+    "name": "Linha Completa NexGard",
+    "price": null,
+    "cat": "Cuidados",
+    "id": "MAHSwngNFuI",
+    "image": "assets/728ededfedde0492761c5603a67c995c.png"
+  },
+  {
+    "name": "Linha Completa de Simparic Trio",
+    "price": null,
+    "cat": "Cuidados",
+    "id": "MAHSwp_wYzA",
+    "image": "assets/b9848142ac57b44f16edbf20b693c796.png"
+  }
+]
